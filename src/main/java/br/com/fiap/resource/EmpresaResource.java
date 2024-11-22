@@ -9,7 +9,7 @@ import jakarta.ws.rs.core.Response;
 import java.util.ArrayList;
 
 
-@Path("/empresa")
+@Path("/sce/empresa")
 @Produces(MediaType.APPLICATION_JSON)
 @Consumes(MediaType.APPLICATION_JSON)
 
